@@ -72,37 +72,34 @@ p {
 }
 
 
-#navbar ul li a:hover,
-#navbar ul li a.current {
+#navbar ul li a:hover
+{
   background: #fff;
   color: black;
 }
+#navbar .right-nav ul li a:hover
+{
+  background: transparent;
+  color: black;
+}
 
-
-.header {
-  color: #fff;
-  font-size: 14px;
+header {
+  font-size: 18px;
   font-family: sans-serif;
-  padding: 0 16px;
-  float: right;
-  padding: 10px;
-}
-
-.section-1 {
-  width: 1900px;
-  height: 800px;
-  flex: auto;
-  background-image: url("./images/model-3-main-page_720.jpg");
-  background-size: cover;
-}
-
-.header-alert {
   background-image: radial-gradient(54.97% 272.54% at 27.36% -134.72%, rgba(108, 148, 255, .92) 0, rgba(0, 0, 0, .92) 100%);
   color: #fff;
   margin-top: 0px;
   padding: 20px;
   height: 20px;
   text-align: center;
+}
+
+.section-1 {
+  width: 1900px;
+  height: 1050px;
+  flex: auto;
+  background-image: url("./images/50dbf0-hero-banner-3.jpeg");
+  background-size:cover;
 }
 
 .seedetais {
@@ -142,7 +139,7 @@ td {
   border-collapse: collapse;
   position: relative;
   left: 320px;
-  top: 200px;
+  top: 340px;
   font: bold;
 
 }
