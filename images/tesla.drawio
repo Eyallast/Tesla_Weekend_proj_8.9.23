@@ -1,0 +1,119 @@
+<mxfile host="app.diagrams.net" modified="2023-09-07T11:59:37.084Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="ron2uSBi4INfSHjN84di" version="21.7.1" type="device">
+  <diagram name="Page-1" id="P_gKvhI2sqAcMsUhJL7E">
+    <mxGraphModel dx="969" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Pi50tldpWBc26mm35XMc-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Pi50tldpWBc26mm35XMc-1" target="Pi50tldpWBc26mm35XMc-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pi50tldpWBc26mm35XMc-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="Pi50tldpWBc26mm35XMc-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="360" as="targetPoint" />
+            <mxPoint x="210" y="60" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="60" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pi50tldpWBc26mm35XMc-1" value="site" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="40" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Pi50tldpWBc26mm35XMc-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="Pi50tldpWBc26mm35XMc-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="960" y="375" as="targetPoint" />
+            <mxPoint x="590" y="220" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="721" y="260" />
+              <mxPoint x="721" y="375" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pi50tldpWBc26mm35XMc-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.617;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Pi50tldpWBc26mm35XMc-39" target="Pi50tldpWBc26mm35XMc-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pi50tldpWBc26mm35XMc-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="Pi50tldpWBc26mm35XMc-2" target="Pi50tldpWBc26mm35XMc-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pi50tldpWBc26mm35XMc-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Pi50tldpWBc26mm35XMc-2" target="Pi50tldpWBc26mm35XMc-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pi50tldpWBc26mm35XMc-2" value="html" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="200" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Pi50tldpWBc26mm35XMc-5" value="css" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="20" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Pi50tldpWBc26mm35XMc-10" value="top + header" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pi50tldpWBc26mm35XMc-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Pi50tldpWBc26mm35XMc-13" target="Pi50tldpWBc26mm35XMc-26" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="485" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pi50tldpWBc26mm35XMc-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Pi50tldpWBc26mm35XMc-13" target="Pi50tldpWBc26mm35XMc-36" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pi50tldpWBc26mm35XMc-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="Pi50tldpWBc26mm35XMc-13" target="Pi50tldpWBc26mm35XMc-38" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1150" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pi50tldpWBc26mm35XMc-13" value="hero" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="690" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pi50tldpWBc26mm35XMc-21" value="s2 car safety" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="880" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pi50tldpWBc26mm35XMc-23" value="s3 chargers" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1060" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pi50tldpWBc26mm35XMc-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Pi50tldpWBc26mm35XMc-39" target="Pi50tldpWBc26mm35XMc-13" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="495" y="340" as="sourcePoint" />
+            <mxPoint x="495" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pi50tldpWBc26mm35XMc-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Pi50tldpWBc26mm35XMc-26" target="Pi50tldpWBc26mm35XMc-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pi50tldpWBc26mm35XMc-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Pi50tldpWBc26mm35XMc-26" target="Pi50tldpWBc26mm35XMc-32" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pi50tldpWBc26mm35XMc-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Pi50tldpWBc26mm35XMc-26" target="Pi50tldpWBc26mm35XMc-34" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pi50tldpWBc26mm35XMc-26" value="navbar" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="630" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pi50tldpWBc26mm35XMc-29" value="logo" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="630" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pi50tldpWBc26mm35XMc-32" value="menu" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="790" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pi50tldpWBc26mm35XMc-34" value="icon right side" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pi50tldpWBc26mm35XMc-36" value="title" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="940" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pi50tldpWBc26mm35XMc-38" value="bottons" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1090" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pi50tldpWBc26mm35XMc-39" value="s1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
