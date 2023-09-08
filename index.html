@@ -13,12 +13,11 @@
 
 <body>
   <header>
-    
-      <strong><span class="Federal">$7500 Federal Tax Credit</span></strong>
-      <span class="Federal">Available for new Model 3. Reductions to tax credit liklely after Dec 31. <a
-          class="seedetais" href="#">See Details</a>
-      </span>
-    
+
+    <strong><span class="header">$7500 Federal Tax Credit</span></strong>
+    <span class="header">Available for new Model 3. Reductions to tax credit liklely after Dec 31. <a class="seedetais"
+        href="#">See Details</a>
+    </span>
   </header>
   <section class="section-1">
     <nav id="navbar">
@@ -59,8 +58,12 @@
         <th>
           <h1>3.1 s</h1>
         </th>
-        <th><h1>333 mi</h1></th>
-        <th><h1>AWD</h1></th>
+        <th>
+          <h1>333 mi</h1>
+        </th>
+        <th>
+          <h1>AWD</h1>
+        </th>
       </tr>
       <tr>
         <td>0-60 mph*</td>
@@ -75,11 +78,48 @@
       <tr>
         <td><button>Explore Inventory</button></td>
         <td></td>
-        <td><button>Custom Order</button></td>
+        <td><button class="trans">Custom Order</button></td>
       </tr>
     </table>
-
+    <div>
+      <p style="color: white;" *Price before incentives and savings is $40,240, excluding taxes and fees. Subject to
+        change. Learn about est. gas savings.</p>
+    </div>
   </section>
+
+  <section class="section-2">
+    <p class="RigidStructure"><strong>Rigid Structure</strong></p>
+    <p class="ImpactProtection"><strong>Impact Protection</strong></p>
+    <p class="verylow"><strong>Very Low Rollover Risk</strong></p>
+     </section><br>
+  <section class="section-3">
+    <h1 class="S3-left-h1">Safety-First Design</h1>
+    <p class="S3-left">Safety is the most important part of every Tesla. We design our vehicles to <a class="exceed_safety" href="#">exceed safety
+        standards.</a></p>
+        <div class="S3-left">  
+        <h5>5-Star Rating</h5>
+        <p>Model 3 achieved NHTSA 5-star safety ratings in every category and subcategory.</p>
+        </div>
+        <div class="S3-right"><h5>Top Safety Pick+</h5>
+        <p>Model 3 received the IIHS Top Safety Pick+ award, with top ratings in all crashworthiness and front crash
+          prevention categories.</p>
+        </div>
+       <section class="section-4">
+  </section>
+  <script>
+    window.onscroll = function() {myFunction()};
+    
+    var header = document.getElementById("header");
+    var sticky = header.offsetTop;
+    
+    function myFunction() {
+      if (window.pageYOffset > sticky) {
+        header.classList.add("sticky");
+      } else {
+        header.classList.remove("sticky");
+      }
+    }
+    </script>
 </body>
 
 </html>
